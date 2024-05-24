@@ -2,7 +2,7 @@ package main
 
 import "fmt"
  
-func main() {
+func ifElse() {
      
 	c := 8
     b := 8

@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 
-func main()  {
+func hello()  {
     var hello string = "Hello"
     fmt.Println(hello)
     var (
