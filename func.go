@@ -4,7 +4,7 @@ import "fmt"
 
 //работа с функциями
  
-func main() {
+func main5() {
 	fmt.Println("Вызов функции")
 	new()
 	add(4, 5)
