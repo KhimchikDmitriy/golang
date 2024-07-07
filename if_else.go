@@ -2,8 +2,9 @@ package main
 
 import "fmt"
  
-func ifElse() {
-     
+func main3() {
+    //cинтаксис if else 
+
 	c := 8
     b := 8
     if c < b {
@@ -13,6 +14,10 @@ func ifElse() {
     } else{
         fmt.Println("c равно b")
     }
+
+    fmt.Println(" ")
+	fmt.Println("слеующий пример:")
+	fmt.Println(" ")
 
 	a := 8
     switch(a) {
