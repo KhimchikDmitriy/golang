@@ -4,7 +4,7 @@ import "fmt"
 
 //работа со срезами
  
-func main() {
+func main11() {
 	fmt.Println("Вызов функции")
 	new7()
 	users := []string{"a", "b", "c", "d", "e"}
