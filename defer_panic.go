@@ -4,7 +4,7 @@ import "fmt"
 
 //работа с defer и panic
  
-func main() {
+func main10() {
 	defer finish()
 	defer fmt.Println("Finished")
 	fmt.Println("Вызов функции")
