@@ -4,7 +4,7 @@ import "fmt"
 
 //работа с типом функций
  
-func main() {
+func main7() {
 	fmt.Println("Вызов функции")
 	new3()
 	var f func(int, int) int = plus
