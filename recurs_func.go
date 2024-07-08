@@ -4,7 +4,7 @@ import "fmt"
 
 //работа с рекурсивными функциями
  
-func main() {
+func main9() {
 	fmt.Println("Вызов функции")
 	new5()
 	fmt.Println(factorial(4))
