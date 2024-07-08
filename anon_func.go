@@ -4,7 +4,7 @@ import "fmt"
 
 //работа с анонимными функциями
  
-func main() {
+func main8() {
 	fmt.Println("Вызов функции")
 	new4()
 	fu := func(x, y int) int { return x + y }
