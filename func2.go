@@ -4,7 +4,7 @@ import "fmt"
 
 //синтаксис возврата
  
-func main() {
+func main6() {
 	fmt.Println("Вызов функции")
 	new2()
 	a := addfunc(4, 5)   
