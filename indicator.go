@@ -4,7 +4,7 @@ import "fmt"
 
 //работа с индикаторами
  
-func main() {
+func main14() {
 	fmt.Println("Вызов функции")
 	new9()
 	x := 4
@@ -17,11 +17,10 @@ func main() {
 	*p = 25
 	fmt.Println("x =", x)
 	new9()
-	q := new(int)
-	fmt.Println("*q =", *q)
-	*q = 12
-	fmt.Println("*q =", *q)
-	new9()
+	// q := new(int)
+	// fmt.Println("*q =", *q)
+	// *q = 12
+	// fmt.Println("*q =", *q)
 }
 
 func new9(){
