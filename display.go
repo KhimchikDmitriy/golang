@@ -4,7 +4,7 @@ import "fmt"
 
 //работа с отображением
  
-func main() {
+func main13() {
 	fmt.Println("Вызов функции")
 	new8()
 	people := map[string]int{
